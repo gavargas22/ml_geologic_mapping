@@ -2,7 +2,7 @@
 
 This is a project that I started with my masters thesis.
 
-My ultimate goal would be that this repository become a library of M.L trained models for different regions in the United States that anyone can download, train and use to generate geologic maps.
+My ultimate goal would be that this repository beacme a library of M.L trained models for different regions in the United States that anyone can download, train and use to generate geologic maps.
 
 ## Initial Dataset
 
